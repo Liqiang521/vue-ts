@@ -44,3 +44,15 @@ pnpm build
 ```sh
 pnpm lint
 ```
+```sh
+'feat': '新特性'，
+'fix': '修复bug',
+'docs': '文档修改',
+'style': '代码格式修改',
+'refactor': '代码重构',
+'perf': '优化相关',
+'test': '测试用例修改',
+'chore': '其他修改',
+'revert': '回滚代码',
+'build': '编译相关'
+```
